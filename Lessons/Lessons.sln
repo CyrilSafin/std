@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Num in row", "Lessons\Num in row.csproj", "{B5FC90A5-21F2-4B5D-8EC5-D0C703FBD7DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Change 2in1 letters", "Change 2in1 letters\Change 2in1 letters.csproj", "{25DAD08F-456F-4440-958A-95464D5E5FE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Is Upper in string", "Is Upper in string\Is Upper in string.csproj", "{904057D5-1302-4AD6-960D-BD4D6897CD0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marathon", "Marathon\Marathon.csproj", "{1F65A6D1-964B-4180-8995-8B5AD1208836}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5FC90A5-21F2-4B5D-8EC5-D0C703FBD7DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5FC90A5-21F2-4B5D-8EC5-D0C703FBD7DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5FC90A5-21F2-4B5D-8EC5-D0C703FBD7DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5FC90A5-21F2-4B5D-8EC5-D0C703FBD7DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25DAD08F-456F-4440-958A-95464D5E5FE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25DAD08F-456F-4440-958A-95464D5E5FE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25DAD08F-456F-4440-958A-95464D5E5FE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25DAD08F-456F-4440-958A-95464D5E5FE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{904057D5-1302-4AD6-960D-BD4D6897CD0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{904057D5-1302-4AD6-960D-BD4D6897CD0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{904057D5-1302-4AD6-960D-BD4D6897CD0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{904057D5-1302-4AD6-960D-BD4D6897CD0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F65A6D1-964B-4180-8995-8B5AD1208836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F65A6D1-964B-4180-8995-8B5AD1208836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F65A6D1-964B-4180-8995-8B5AD1208836}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F65A6D1-964B-4180-8995-8B5AD1208836}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
