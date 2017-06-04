@@ -1,0 +1,6 @@
+S:\Projects\std\Lessons\Lessons\bin\Debug\Lessons.exe.config
+S:\Projects\std\Lessons\Lessons\bin\Debug\Lessons.exe
+S:\Projects\std\Lessons\Lessons\bin\Debug\Lessons.pdb
+S:\Projects\std\Lessons\Lessons\obj\Debug\Lessons.csprojResolveAssemblyReference.cache
+S:\Projects\std\Lessons\Lessons\obj\Debug\Lessons.exe
+S:\Projects\std\Lessons\Lessons\obj\Debug\Lessons.pdb

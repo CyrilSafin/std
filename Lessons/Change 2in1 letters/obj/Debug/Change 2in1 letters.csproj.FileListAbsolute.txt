@@ -1,0 +1,5 @@
+S:\Projects\std\Lessons\Change 2in1 letters\bin\Debug\Change 2in1 letters.exe.config
+S:\Projects\std\Lessons\Change 2in1 letters\bin\Debug\Change 2in1 letters.exe
+S:\Projects\std\Lessons\Change 2in1 letters\bin\Debug\Change 2in1 letters.pdb
+S:\Projects\std\Lessons\Change 2in1 letters\obj\Debug\Change 2in1 letters.exe
+S:\Projects\std\Lessons\Change 2in1 letters\obj\Debug\Change 2in1 letters.pdb
