@@ -1,5 +1,0 @@
-S:\Projects\std\Lessons\Is Upper in string\bin\Debug\Is Upper in string.exe.config
-S:\Projects\std\Lessons\Is Upper in string\bin\Debug\Is Upper in string.exe
-S:\Projects\std\Lessons\Is Upper in string\bin\Debug\Is Upper in string.pdb
-S:\Projects\std\Lessons\Is Upper in string\obj\Debug\Is Upper in string.exe
-S:\Projects\std\Lessons\Is Upper in string\obj\Debug\Is Upper in string.pdb

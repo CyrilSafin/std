@@ -1,6 +1,0 @@
-S:\Projects\std\Lessons\Marathon\bin\Debug\Marathon.exe.config
-S:\Projects\std\Lessons\Marathon\bin\Debug\Marathon.exe
-S:\Projects\std\Lessons\Marathon\bin\Debug\Marathon.pdb
-S:\Projects\std\Lessons\Marathon\obj\Debug\Marathon.csprojResolveAssemblyReference.cache
-S:\Projects\std\Lessons\Marathon\obj\Debug\Marathon.exe
-S:\Projects\std\Lessons\Marathon\obj\Debug\Marathon.pdb
