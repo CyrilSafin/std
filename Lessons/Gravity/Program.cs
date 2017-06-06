@@ -14,45 +14,47 @@ namespace Gravity
             int width = int.Parse(inputs[0]);
             int height = int.Parse(inputs[1]);
 
-            char[,] arr = new char[width, height];
-            for (int j = 0; j < width; j++)
+            char[,] matrix = new char[width, height];
+
+            for (int y = 0; y <height ; y++)
             {
                 string line = Console.ReadLine();
-                
+
+                for (int x = 0; x < width; x++)
+                {
+                    matrix[x, y] = line[x];
+                }
+            }
+
+            char[] sort = new char[height];
+
+
+            for (int x = 0; x < width; x++)
+            {
                 for (int i = 0; i < height; i++)
                 {
-                    arr[i, j] = line[i];//.GetTypeCode();//.ToString();
+                    sort[i] = matrix[x, i];
+                }
+
+                Array.Sort(sort);
+                Array.Reverse(sort);
+
+                for (int i = 0; i < height; i++)
+                {
+                    matrix[x, i]=sort[i]; 
                 }
             }
-            
 
-            for (int i = 0; i < width; i++)
+          
+            for (int y = 0; y < height; y++)
             {
-                bool exit = true;
-                do
+                for (int x = 0; x < width; x++)
                 {
-                    for( int j=0;j<height-1;j++)
-                    {
-                        if (arr[i, j] == '#')
-                        {
-                            if (arr[i, j + 1] == '.')                             { arr[i, j] = '.'; arr[i, j + 1] = '#';}
-                        }
-                    }
-                    exit = false;
-                }
-                while (exit == true);
-            }
-
-            for (int i = 0; i < width; i++)
-            {
-                for (int j = 0; j < height; j++)
-                {
-                    Console.Write(arr[j,i]);
+                    Console.Write(matrix[x, y]);
                 }
                 Console.Write('\n');
             }
 
-            
             Console.ReadKey();
         }
     }
